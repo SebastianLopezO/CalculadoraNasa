@@ -1,0 +1,15 @@
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\CalculadoraNasa\CalculadoraNasa\bin\Debug\net6.0\CalculadoraNasa.exe
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\CalculadoraNasa\CalculadoraNasa\bin\Debug\net6.0\CalculadoraNasa.deps.json
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\CalculadoraNasa\CalculadoraNasa\bin\Debug\net6.0\CalculadoraNasa.runtimeconfig.json
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\CalculadoraNasa\CalculadoraNasa\bin\Debug\net6.0\CalculadoraNasa.dll
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\CalculadoraNasa\CalculadoraNasa\bin\Debug\net6.0\CalculadoraNasa.pdb
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\CalculadoraNasa\CalculadoraNasa\obj\Debug\net6.0\CalculadoraNasa.csproj.AssemblyReference.cache
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\CalculadoraNasa\CalculadoraNasa\obj\Debug\net6.0\CalculadoraNasa.GeneratedMSBuildEditorConfig.editorconfig
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\CalculadoraNasa\CalculadoraNasa\obj\Debug\net6.0\CalculadoraNasa.AssemblyInfoInputs.cache
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\CalculadoraNasa\CalculadoraNasa\obj\Debug\net6.0\CalculadoraNasa.AssemblyInfo.cs
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\CalculadoraNasa\CalculadoraNasa\obj\Debug\net6.0\CalculadoraNasa.csproj.CoreCompileInputs.cache
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\CalculadoraNasa\CalculadoraNasa\obj\Debug\net6.0\CalculadoraNasa.dll
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\CalculadoraNasa\CalculadoraNasa\obj\Debug\net6.0\refint\CalculadoraNasa.dll
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\CalculadoraNasa\CalculadoraNasa\obj\Debug\net6.0\CalculadoraNasa.pdb
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\CalculadoraNasa\CalculadoraNasa\obj\Debug\net6.0\CalculadoraNasa.genruntimeconfig.cache
+E:\OneDrive\OneDrive - INSTITUCION UNIVERSITARIA SALAZAR Y HERRERA\DESKTOP-SLO2005\source\repos\CalculadoraNasa\CalculadoraNasa\obj\Debug\net6.0\ref\CalculadoraNasa.dll
